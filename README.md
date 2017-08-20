@@ -16,4 +16,4 @@ https://github.com/Chinchilla-Software-Com/CQRS
 
 https://medium.com/@kdowswell/dapper-ef-and-cqs-2b044206af06
 
-https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/
+https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/ (https://gist.github.com/Vikaskumargd/e236a97d1ee39ec3c39d2bb53be40e87)
